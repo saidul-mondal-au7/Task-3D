@@ -16,7 +16,7 @@ const Product  = mongoose.model('Products');
 
  router.get('/exporttocsv', function(req, res, next) {
     const filename = "products.csv";
-    const dataArray;
+    let dataArray;
     Product.find().lean().exec({}, function(err, products) {
         if (err) res.send(err);
         
