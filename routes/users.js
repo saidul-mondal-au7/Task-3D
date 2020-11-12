@@ -4,7 +4,7 @@ const Product = require('../models/Product');
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-  res.send('respond with a resource');
+  res.send('add data from postman. url = http://localhost:3000/users');
 });
 
 //add product

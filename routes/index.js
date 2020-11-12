@@ -10,7 +10,7 @@ const Product  = mongoose.model('Products');
         if (err)
           res.send(err);
 
-        res.render('index', { title: 'Nodejs MongoDB export to CSV', products: products });
+        res.render('index', { title: 'Create Excel from Mongo Database Collection', products: products });
     });
  });
 
