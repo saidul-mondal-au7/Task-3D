@@ -4,7 +4,7 @@ const Product = require('../models/Product');
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-  res.send('add data from postman. url = http://localhost:3000/users');
+  res.send('add data from postman. url = https://task-3d-excel.herokuapp.com/users');
 });
 
 //add product
