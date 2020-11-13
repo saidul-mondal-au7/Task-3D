@@ -9,7 +9,7 @@ After installing node, this project will need many NPM Packages, so just run the
 
 ```sh
     $ git clone Here(https://github.com/saidul-mondal-au7/Task-3D)
-    $ cd Task-3B-main
+    $ cd Task-3D-main
     $ npm i
 ```
 ### Running The Project
