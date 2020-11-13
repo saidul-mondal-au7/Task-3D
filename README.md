@@ -180,7 +180,7 @@ module.exports = router;
 ```
 ## When user clicks on Export to Exel link, All records are fetched and user is prompted to save generated Exel file.
 
-![](/demoPictures/Screenshot-2.png)
+![](/demoPictures/Screenshot -2.png)
 
 
 Thank you
