@@ -178,7 +178,7 @@ Response object’s status code is set to 200. Content-Type and Content Disposit
  });
 module.exports = router;
 ```
-## When user clicks on Export to Exel link, All records are fetched and user is prompted to save generated Exel file.
+## When user clicks on Export to Excel link, All records are fetched and user is prompted to save generated Excel file.
 
 ![](/demoPictures/Screenshot-2.png)
 
